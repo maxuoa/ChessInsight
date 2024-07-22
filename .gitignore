@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Stockfish engine (if downloaded locally)
+stockfish/
+
+# API keys or sensitive information
+config.ini
